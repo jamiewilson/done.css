@@ -1,0 +1,19 @@
+{
+  "name": "done.css",
+  "version": "1.0.0",
+  "description": "Default HTML styling for demos and prototypes.",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiewilson/done.css.git"
+  },
+  "author": "Jamie Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiewilson/done.css/issues"
+  },
+  "homepage": "https://github.com/jamiewilson/done.css#readme"
+}

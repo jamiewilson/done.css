@@ -39,6 +39,15 @@ body {
   margin: 0 auto;
 }
 
+main,
+header,
+article,
+section,
+aside,
+footer {
+  margin-bottom: var(--margin-bottom);
+}
+
 nav {
   margin-bottom: var(--margin-bottom);
   border-bottom: 1px solid var(--lightgrey);

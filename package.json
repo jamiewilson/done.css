@@ -1,8 +1,7 @@
 {
   "name": "done.css",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Default HTML styling for demos and prototypes.",
-  "main": " ",
   "scripts": {
     "test": " "
   },
